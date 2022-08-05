@@ -8,8 +8,7 @@ Scrapes Aptoide application page for basic information.
 
 **Installation Instructions:**
 
-    - Un-zip packaged project files
-    - Run pip install -r requirements.txt in the un-zipped project directory
+    - Run pip install -r requirements.txt in the project directory
 
 **Running the App:**
 
